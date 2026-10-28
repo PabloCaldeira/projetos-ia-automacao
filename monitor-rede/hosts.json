@@ -1,0 +1,6 @@
+[
+  {"nome": "Roteador principal", "host": "192.168.0.1", "porta": 80},
+  {"nome": "NVR do CFTV", "host": "192.168.0.50", "porta": 554},
+  {"nome": "Câmera portaria", "host": "192.168.0.51", "porta": 554},
+  {"nome": "DNS Google (teste de internet)", "host": "8.8.8.8", "porta": 53}
+]
