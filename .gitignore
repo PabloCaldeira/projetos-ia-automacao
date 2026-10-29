@@ -1,0 +1,6 @@
+__pycache__/
+*.db
+*.log
+triagem_resultado.csv
+relatorio.md
+.env
